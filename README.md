@@ -28,9 +28,9 @@ Interactive GUI: A visually rich chessboard built with Pygame.
 To install Pygame, use the following command: pip install pygame
 
 ### 2. Running the game
-Clone this repository: git clone https://github.com/kingTarrach/chess.git
+Clone this repository: git clone https://github.com/kingTarrach/Chess.git
 
-cd chess
+cd Chess
 
 ### 3. Run the game script:
 python3 main.py
